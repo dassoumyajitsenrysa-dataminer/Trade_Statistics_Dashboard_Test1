@@ -1,0 +1,224 @@
+﻿Importers	Select your indicators-Value exported in 2024 (USD thousand)	Select your indicators-Trade balance 2024 (USD thousand)	Select your indicators-Growth in exported value between 2020-2024 (%, p.a.)	Select your indicators-Ranking of partner countries in world imports	Select your indicators-Total imports growth in value of partner countries between 2020-2024 (%, p.a.)	
+"World"	20493808	19444568	64		7	
+"United States of America"	7077160	7061362	207	1	1	
+"United Arab Emirates"	2505252	2450865	23	2	23	
+"Netherlands"	2351411	2349844	89	9	11	
+"United Kingdom"	1507606	1506236	67	8	2	
+"Italy"	1335308	1335165	86	10	10	
+"Czech Republic"	1238419	1238131	130	7	17	
+"Austria"	922059	921980		34	1	
+"Germany"	509508	505436	14	5	-1	
+"France"	318025	317735	37	15	0	
+"Japan"	291916	287911	768	4	4	
+"Türkiye"	291401	291370	53	28	13	
+"Saudi Arabia"	285604	285584		11	50	
+"Spain"	269529	269468	32	18	9	
+"Mexico"	245076	245069		6	81	
+"Russian Federation"	225784	225506	-12	24	-12	
+"Sweden"	215741	215731		26	-4	
+"South Africa"	153610	153561	12	33	15	
+"Canada"	101827	101387	1129	12	7	
+"Kazakhstan"	85519	85519	12	47	14	
+"Greece"	77356	77356		49	16	
+"Nepal"	75286	75286	-5	82	-8	
+"Portugal"	70628	70385		42	16	
+"Australia"	58379	58320	1237	23	3	
+"Thailand"	50784	50047	22	20	5	
+"Hong Kong, China"	29312	-107127	23	3	-2	
+"Colombia"	29031	29031		35	0	
+"Uzbekistan"	21916	21916	1043	64	41	
+"China"	17074	-613091	-10	13	78	
+"Bhutan"	14162	14162	-11	124	5	
+"Morocco"	13954	13954	-23	71	-10	
+"Singapore"	13610	-3856	178	17	5	
+"Peru"	12430	12430		45	1	
+"Israel"	10007	8011	193	37	6	
+"Azerbaijan"	9970	9970		65	21	
+"Malaysia"	9337	3837		27	11	
+"Chile"	9086	9086		38	-1	
+"Lithuania"	7297	7290		52	14	
+"Belarus"	5790	5790		74	35	
+"Georgia"	5484	5484		80	60	
+"Nigeria"	3878	3877	-9	141	23	
+"Sri Lanka"	3673	3673	-25	94	-24	
+"Philippines"	2480	2440	-47	43	33	
+"Viet Nam"	1815	-82915	541	19	33	
+"Bangladesh"	1423	1423	-63	78	-12	
+"Belgium"	1270	677		29	3	
+"Estonia"	1072	1072		63	21	
+"Korea, Republic of"	808	-38376	7	22	1	
+"Poland"	792	777	350	16	19	
+"Guatemala"	598	598		203	-92	
+"Tunisia"	478	478		95	-14	
+"Costa Rica"	443	443		67	15	
+"Uruguay"	434	434		84	8	
+"Kuwait"	406	406	209	40	24	
+"Area Nes"	316	315				
+"Egypt"	307	277	-25	51	16	
+"Mozambique"	302	302		150	-7	
+"Brazil"	283	177	43	57	5	
+"Kenya"	217	217	166	130	-37	
+"Qatar"	177	177		59	13	
+"Taipei, Chinese"	108	-41446	-50	25	4	
+"Libya, State of"	92	92		108	-12	
+"Armenia"	89	89		53	113	
+"Bosnia and Herzegovina"	84	84	-23	99	8	
+"Ireland"	79	-2894	253	54	6	
+"Denmark"	62	15		41	2	
+"New Zealand"	61	60	57	58	1	
+"Norway"	55	43		48	-3	
+"Chad"	41	41		113	31	
+"Switzerland"	40	-15		39	2	
+"Jordan"	30	30	-71	79	-11	
+"Mauritius"	23	23		101	10	
+"Namibia"	22	22		112	3	
+"Myanmar"	21	21	36	171	-72	
+"El Salvador"	20	20		77	6	
+"Indonesia"	20	-2417	52	31	41	
+"Oman"	16	16		60	-6	
+"Angola"	15	15		125	-1	
+"Cameroon"	13	13		100	6	
+"Argentina"	11	11		103	12	
+"Côte d'Ivoire"	11	11		142	12	
+"Botswana"	9	9		119	-2	
+"Slovenia"	9	-2		70	8	
+"Congo, Democratic Republic of the"	8	8	95	158	45	
+"Mongolia"	7	7		93	32	
+"Dominican Republic"	5	5		86	-10	
+"Gambia"	4	4		210	82	
+"Iraq"	3	3		21	11	
+"Maldives"	3	3	14	121	5	
+"Panama"	3	1		73	2	
+"Finland"	3	-7	33	50	5	
+"Ethiopia"	2	2		106	32	
+"Bolivia, Plurinational State of"	2	2		134	-7	
+"Tuvalu"	2	2		214	29	
+"Hungary"	2	-312		30	21	
+"Ukraine"	1	1	-96	55	-3	
+"Afghanistan"	1	1		88	20	
+"Papua New Guinea"	1	1	-79	107	21	
+"Uganda"	1	1		111	-1	
+"Tanzania, United Republic of"	1	1	9	115	0	
+"Senegal"	1	1	-23	116	-15	
+"Zambia"	1	1		138	-8	
+"Tajikistan"	1	1		149	153	
+"Seychelles"	1	1	-38	162	1	
+"Congo"	1	1		188	0	
+"Croatia"	1	-1		62	12	
+"Bulgaria"	1	-2		56	15	
+"Romania"	1	-1453	-85	36	13	
+"Turkmenistan"		-2		66	79	
+"British Virgin Islands"		-3		183	-14	
+"Samoa"		-40		178	-17	
+"Fiji"		-45		123	8	
+"Slovakia"		-67		14	15	
+"Pakistan"				32	-6	
+"Paraguay"				44	11	
+"Macao, China"				61	-10	
+"Ecuador"				68	5	
+"Latvia"				69	-3	
+"Serbia"				72	4	
+"Bahrain"				75	13	
+"Somalia"				76	20	
+"Mali"				81	33	
+"Algeria"				83	59	
+"Venezuela, Bolivarian Republic of"				85	15	
+"Lebanon"				87	17	
+"Honduras"				89	8	
+"Kyrgyzstan"				90	18	
+"Cyprus"				91	13	
+"Luxembourg"				92	3	
+"Moldova, Republic of"				96	11	
+"Sudan"				97	-8	
+"Guinea"				98	17	
+"Rwanda"				102	2	
+"Macedonia, North"				104	5	
+"Lao People's Democratic Republic"				105	0	
+"Iceland"				109	3	
+"Malta"				110	12	
+"Montenegro"				114	16	
+"Ship stores and bunkers"				117	63	
+"Djibouti"				118	60	
+"Cambodia"				120	46	
+"Guyana"				122	62	
+"Albania"				126	-2	
+"Andorra"				127	3	
+"French Polynesia"				128	-2	
+"Haiti"				129	-6	
+"Nicaragua"				131	-13	
+"Zimbabwe"				132	40	
+"Curaçao"				133	15	
+"Syrian Arab Republic"				135	-34	
+"Brunei Darussalam"				136	-11	
+"Bahamas"				137	9	
+"Ghana"				139	-4	
+"Malawi"				140	2	
+"Lesotho"				143	40	
+"New Caledonia"				144	-9	
+"Jamaica"				145	-10	
+"Eswatini"				146	1	
+"Yemen"				147	80	
+"Palestine, State of"				148	154	
+"Madagascar"				151	5	
+"Iran, Islamic Republic of"				152	-68	
+"Timor-Leste"				153	1	
+"Aruba"				154	-2	
+"Vanuatu"				155	25	
+"Trinidad and Tobago"				156	32	
+"Liberia"				157	-5	
+"Burundi"				159	-3	
+"Gibraltar"				160	15	
+"Greenland"				161	10	
+"Cayman Islands"				163	-11	
+"Barbados"				164	-2	
+"South Sudan"				165	-15	
+"Faroe Islands"				166	-20	
+"Benin"				167	10	
+"Gabon"				168	-12	
+"Niger"				169	32	
+"Sierra Leone"				170	-11	
+"Saint Lucia"				172	-2	
+"Equatorial Guinea"				173	19	
+"United States Minor Outlying Islands"				174	78	
+"Solomon Islands"				175	29	
+"Kiribati"				176	39	
+"Tonga"				177	-12	
+"Cabo Verde"				179	-21	
+"Saint Kitts and Nevis"				180	-3	
+"Belize"				181	4	
+"Saint Vincent and the Grenadines"				182	-11	
+"Burkina Faso"				184	8	
+"Togo"				185	-38	
+"Cook Islands"				186		
+"Guinea-Bissau"				187	-6	
+"Free Zones"				189	-25	
+"Dominica"				190	-38	
+"Comoros"				191	21	
+"Central African Republic"				192	13	
+"Cuba"				193	-44	
+"Grenada"				194	-2	
+"Saint Pierre and Miquelon"				195	-7	
+"Micronesia, Federated States of"				196	-21	
+"French Southern and Antarctic Territories"				197	185	
+"Bermuda"				198	-4	
+"Sao Tome and Principe"				199	8	
+"Turks and Caicos Islands"				200	-11	
+"Mauritania"				201	3	
+"Anguilla"				202	-16	
+"Nauru"				204	8	
+"Wallis and Futuna Islands"				205	10	
+"Bonaire, Sint Eustatius and Saba"				206	78	
+"Marshall Islands"				207	2	
+"Antigua and Barbuda"				208	-11	
+"Falkland Islands (Malvinas)"				209	32	
+"Sint Maarten (Dutch part)"				211	20	
+"Montserrat"				212	13	
+"Suriname"				213	-8	
+"Eritrea"				215	-58	
+"Palau"				216	52	
+"British Indian Ocean Territory"				217	-47	
+"Saint Helena"				218	90	
+"Niue"				219		
+"Northern Mariana Islands"				220	-2	
+"Christmas Island"				221		
+"Pitcairn"				222		
